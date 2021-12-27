@@ -9,7 +9,7 @@
   padding-left: 0;
   margin-right: auto;
   margin-left: auto;
-  background-color: ;
+  background-color: rgba(0, 0, 0, 0.95);
 }
 .title-banner {
   background-image: url(../assets/images/dark_triangle.png);
@@ -17,5 +17,5 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: "#1FD1B24";
+  background-color: rgba(0, 0, 0, 0.95);
 }
