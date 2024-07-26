@@ -1,0 +1,18 @@
+.social-btn {
+    text-decoration: none;
+}
+
+.social-icon {
+    font-size: 24px;
+    cursor: pointer;
+    color: #ce8075;
+}
+
+.social-icon:hover {
+    color: #b44d44;
+}
+
+#footer {
+    background-color: #000000;
+    text-align: center;
+}
