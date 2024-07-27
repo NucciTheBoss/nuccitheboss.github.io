@@ -13,7 +13,7 @@
 // You should have received a copy of the GNU Affero General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import { LitElement } from "lit";
+import { LitElement } from "https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js";
 
 // `BaseElement` overrides the render root so that bootstrap styles
 // can be applied to the main site. Web components isolate the CSS

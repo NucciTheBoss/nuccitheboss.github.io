@@ -1,8 +1,6 @@
 {
   "scripts": {
-    "start": "web-dev-server --node-resolve --open --watch",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "web-dev-server --node-resolve --open --watch"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
