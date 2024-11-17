@@ -17,8 +17,8 @@ import { html } from 'https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.j
 import { BaseElement } from "./base.js";
 
 import "./banner.js";
-import "./footer";
-import "./navbar";
+import "./footer.js";
+import "./navbar.js";
 
 class HomePage extends BaseElement {
     render() {
