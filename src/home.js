@@ -16,9 +16,9 @@
 import { html } from 'https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js';
 import { BaseElement } from "./base";
 
-import "./banner";
-import "./footer";
-import "./navbar";
+import "/src/banner";
+import "/src/footer";
+import "/src/navbar";
 
 class HomePage extends BaseElement {
     render() {

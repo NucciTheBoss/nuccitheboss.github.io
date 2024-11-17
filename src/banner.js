@@ -14,7 +14,7 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import { html } from 'https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js';
-import { BaseElement } from "./base";
+import { BaseElement } from "/src/base";
 
 // Hero banner shows name and allegheny national forest
 // when visitors first open web page
