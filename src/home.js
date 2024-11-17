@@ -14,11 +14,11 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import { html } from 'https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js';
-import { BaseElement } from "./base";
+import { BaseElement } from "./base.js";
 
-import "/src/banner";
-import "/src/footer";
-import "/src/navbar";
+import "./banner.js";
+import "./footer";
+import "./navbar";
 
 class HomePage extends BaseElement {
     render() {

@@ -14,7 +14,7 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import { html } from 'https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js';
-import { BaseElement } from "/src/base";
+import { BaseElement } from "./base.js";
 
 // Footer with social media information.
 class SocialMediaFooter extends BaseElement {
